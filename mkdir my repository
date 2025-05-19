@@ -1,0 +1,5 @@
+mk dir my repository
+cd my repository
+got init my repository
+git add kai.html
+git commit -m "created a new html file"
